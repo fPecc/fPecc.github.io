@@ -2,7 +2,7 @@
 title: "Integration of a systolic array based hardware accelerator into a dnn operator auto-tuning framework"
 collection: publications
 permalink: /publication/2022-10-13-tvm-gemmini
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper talks about the integration'
 date: 2022-10-03
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'

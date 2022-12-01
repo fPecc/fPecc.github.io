@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Federico Nicolás Peccia / Profile (WIP)"
 title_separator          : "-"
 name                     : &name "Federico Nicolás Peccia"
-description              : &description "personal description"
+description              : &description "Research assistant at the FZI Forschungszentrum Informatik and doctoral student at the Eberhard Karls Universität Tübingen"
 url                      : https://fPecc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fPecc/fPecc.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Federico Nicolás Peccia"
   avatar           : "bio-photo.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research assistant at the FZI Forschungszentrum Informatik and doctoral student at the Eberhard Karls Universität Tübingen"
   location         : "Karlsruhe, Germany"
   employer         : "FZI Forschungszentrum Informatik"
   pubmed           : 
