@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Federico Nicolás Peccia / Site Title"
+title                    : "Federico Nicolás Peccia / Profile"
 title_separator          : "-"
 name                     : &name "Federico Nicolás Peccia"
 description              : &description "personal description"
@@ -17,7 +17,7 @@ repository               : "fPecc/fPecc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Federico Nicolás Peccia"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Karlsruhe, Germany"
   employer         : "FZI Forschungszentrum Informatik"
-  pubmed           : ""
-  googlescholar    : ""
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : 
+  researchgate     : "https://www.researchgate.net/profile/Federico-Nicolas-Peccia-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/fpecc/?locale=en_US"
+  orcid            : "https://orcid.org/0000-0002-3587-0415"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -178,15 +178,15 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-#  publications:
-#    output: true
-#    permalink: /:collection/:path/
-#  portfolio:
-#    output: true
-#    permalink: /:collection/:path/
-#  talks:
-#    output: true
-#    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -237,13 +237,13 @@ defaults:
 #      share: true
 #      comment: true
   # _talks
-#  - scope:
-#      path: ""
-#      type: talks
-#    values:
-#      layout: talk
-#      author_profile: true
-#      share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
