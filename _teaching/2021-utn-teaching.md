@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant"
+title: "Teaching assistant at UTN, course \"Digital Techniques 3\""
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-utn-teaching
