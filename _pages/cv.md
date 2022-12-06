@@ -69,4 +69,4 @@ Teaching
 
 Volunteering
 ======
-* 06/2018-11/2021: Student Board member of the Electronics Department
+* 06/2018-11/2021: Student Board member of the Electronics Department at the UTN
