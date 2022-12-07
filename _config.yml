@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Federico Nicolás Peccia / Profile (WIP)"
+title                    : "Federico Nicolás Peccia"
 title_separator          : "-"
 name                     : &name "Federico Nicolás Peccia"
 description              : &description "Research assistant at the FZI Forschungszentrum Informatik and doctoral student at the Eberhard Karls Universität Tübingen"
