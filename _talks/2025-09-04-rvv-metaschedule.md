@@ -1,7 +1,7 @@
 ---
 title: "Presentation of paper \"Tensor Program Optimization for the RISC-V Vector Extension Using Probabilistic Programs\""
 collection: talks
-type: "RISC-V Technical Talks"
+type: "Workshop talk"
 permalink: /talks/2025-09-04-rvv-metaschedule
 venue: "RISC-V Technical Talks"
 date: 2025-09-04
