@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Eberhard Karls University Tübingen, 2025 (expected)
+* Ph.D in Computer Science, Eberhard Karls University Tübingen, 2027 (expected)
 * Electronic Engineering Degree, UTN National Technological University, 2021
 * Mechatronics Technician, Hölters Schule and German-Argentine Chamber of Commerce (AHK), 2015
 * Electronics Technician, Hölters Schule, 2013
